@@ -20,11 +20,11 @@
 
 💻 Passionate Full Stack Developer focused on building modern, scalable and responsive web applications.
 
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** (2023–2026)
+- 🎓 Completed Bachelor of Computer Applications (BCA)
 - ⚡ Specialized in **React, Next.js, Node.js, Express & MongoDB**
 - 🤖 Building AI-powered applications using **Gemini AI APIs**
 - 🌱 Currently improving **Backend Development, TypeScript & DSA**
-- 🎯 Looking for **Frontend / Full Stack Developer** opportunities
+- 🎯 Looking for Frontend / Full Stack Developer opportunities
 - 📍 India
 
 ---
