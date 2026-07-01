@@ -1,77 +1,164 @@
-<h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | AI-Integrated Web Apps</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhinav-choudhary-4000932b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:choudharyabhinav490@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+#  Hi, I'm Abhinav
+
+### Full Stack Developer • MERN Stack • Next.js • AI Integration
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+AI-Powered+Web+Applications;Open+to+Frontend+%26+Full+Stack+Roles" />
+
+<p>
+<a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhinav-choudhary-4000932b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:choudharyabhinav490@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+</div>
+
+---
+
+#  About Me
+
+💻 Passionate Full Stack Developer focused on building modern, scalable and responsive web applications.
+
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** (2023–2026)
+- ⚡ Specialized in **React, Next.js, Node.js, Express & MongoDB**
+- 🤖 Building AI-powered applications using **Gemini AI APIs**
+- 🌱 Currently improving **Backend Development, TypeScript & DSA**
+- 🎯 Looking for **Frontend / Full Stack Developer** opportunities
+- 📍 India
+
+---
+
+#  Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 Pursuing **BCA** at Gian Jyoti Institute of Management and Technology, Mohali (2023 - 2026)
-- 💻 Building modern web apps with **React.js, Node.js, Express.js, and MongoDB**
-- 🤖 Currently exploring **AI integration** in web applications (Gemini AI)
-- 🌱 Strengthening my **Data Structures & Algorithms** skills
-- 📫 Reach me at **choudharyabhinav490@gmail.com**
+#  Featured Projects
+
+##  PrepPilot AI
+
+AI-powered Mock Interview Platform
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express
+- MongoDB
+- JWT Authentication
+- Gemini AI
+
+### Features
+
+- AI Interview
+- Authentication
+- Payments
+- Dashboard
+- Responsive UI
 
 ---
 
-### 🛠️ Tech Stack
+##  Cartify
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+Modern E-commerce Frontend
 
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Tech**
 
-**Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- React
+- Tailwind CSS
+- LocalStorage
+
+### Features
+
+- Product Listing
+- Search
+- Filtering
+- Cart
+- Responsive Design
 
 ---
 
-### 🔥 Featured Projects
+## 🌐 Portfolio Website
 
-**[PrepPilot AI](https://github.com/aaviii-dev)** — AI-Powered Mock Interview Platform
-> Built with React, Node.js, Express, MongoDB | JWT Auth | Gemini AI integration | Razorpay payments | Deployed on Render
+Developer Portfolio built using
 
-**[Cartify](https://github.com/aaviii-dev)** — E-commerce Frontend
-> Responsive shopping frontend with search, filtering, sorting, and cart functionality built using React & Tailwind CSS
-
-**[Personal Portfolio](https://github.com/aaviii-dev)** — Developer Portfolio Website
-> Built with Next.js, React.js & Tailwind CSS to showcase projects and skills
-
-**[Notes App](https://github.com/aaviii-dev/React-nm)** — Notes Management App
-> Create, edit, delete, and search notes using React.js with a clean UI
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
 
 ---
 
-### 📊 GitHub Stats
+## 📝 Notes App
+
+React Notes Application
+
+- CRUD
+- Search
+- Local Storage
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaviii-dev&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaviii-dev&hide_border=true" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaviii-dev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aaviii-dev&theme=github-dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaviii-dev&layout=compact&hide_border=true" width="50%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaviii-dev&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-<p align="center"><i>Open to Full Stack / Frontend Developer opportunities, internships & freelance projects 🚀</i></p>
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge"/>
+</a>
+
+<a href="mailto:choudharyabhinav490@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhinav-choudhary-4000932b9/">
+<img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 "Building scalable web applications with clean code and exceptional user experiences."
+
+ If you like my work, consider starring my repositories.
+
+</div>
