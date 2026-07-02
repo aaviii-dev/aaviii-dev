@@ -96,7 +96,7 @@ Modern E-commerce Frontend
 
 ---
 
-https://portfolio-red-ten-5u8lh3qxq9.vercel.app/ 🌐 Portfolio Website
+ 🌐 Portfolio Website
 
 Developer Portfolio built using
 
